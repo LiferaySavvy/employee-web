@@ -10,4 +10,4 @@ Update Liferay Home path in build.gradle file.
 * `gradle build`
 * `gradle deploy`  
 ## Documentation 
-http://www.liferaysavvy.com/2020/03/adding-third-party-non-osgi-jars-to.html
+* [Adding Third Party Non OSGi Jars to Liferay OSGi module](http://www.liferaysavvy.com/2020/03/adding-third-party-non-osgi-jars-to.html)
